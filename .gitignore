@@ -1,0 +1,8 @@
+__pycache__/
+venv/
+*.mp4
+*.json
+*.pth
+*.pt
+OUTPUT/
+INPUT/
